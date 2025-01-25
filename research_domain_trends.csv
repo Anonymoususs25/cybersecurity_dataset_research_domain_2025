@@ -1,0 +1,95 @@
+year,domain,count,yearly_total,percentage
+2020,network security,12,91,13.186813186813188
+2020,malware analysis and detection,6,91,6.593406593406594
+2020,privacy preserving computation,24,91,26.373626373626376
+2020,blockchain and cryptographic security,6,91,6.593406593406594
+2020,adversarial machine learning,7,91,7.6923076923076925
+2020,information security,12,91,13.186813186813188
+2020,embedded systems security,7,91,7.6923076923076925
+2020,web application security,12,91,13.186813186813188
+2020,machine learning for cybersecurity,2,91,2.197802197802198
+2020,cryptographic api misuse detection,3,91,3.296703296703297
+2019,privacy preserving computation,19,74,25.675675675675674
+2019,adversarial machine learning,13,74,17.56756756756757
+2019,malware analysis and detection,5,74,6.756756756756757
+2019,web application security,7,74,9.45945945945946
+2019,network security,8,74,10.81081081081081
+2019,machine learning for cybersecurity,3,74,4.054054054054054
+2019,cryptographic api misuse detection,1,74,1.3513513513513513
+2019,information security,8,74,10.81081081081081
+2019,embedded systems security,4,74,5.405405405405405
+2019,blockchain and cryptographic security,6,74,8.108108108108109
+2015,privacy preserving computation,19,70,27.142857142857142
+2015,malware analysis and detection,8,70,11.428571428571429
+2015,information security,15,70,21.428571428571427
+2015,network security,8,70,11.428571428571429
+2015,web application security,10,70,14.285714285714285
+2015,machine learning for cybersecurity,2,70,2.857142857142857
+2015,cryptographic api misuse detection,2,70,2.857142857142857
+2015,embedded systems security,2,70,2.857142857142857
+2015,blockchain and cryptographic security,2,70,2.857142857142857
+2015,adversarial machine learning,2,70,2.857142857142857
+2017,privacy preserving computation,21,74,28.37837837837838
+2017,information security,12,74,16.216216216216218
+2017,malware analysis and detection,4,74,5.405405405405405
+2017,embedded systems security,9,74,12.162162162162163
+2017,cryptographic api misuse detection,8,74,10.81081081081081
+2017,network security,10,74,13.513513513513514
+2017,machine learning for cybersecurity,2,74,2.7027027027027026
+2017,adversarial machine learning,5,74,6.756756756756757
+2017,blockchain and cryptographic security,2,74,2.7027027027027026
+2017,web application security,1,74,1.3513513513513513
+2022,machine learning for cybersecurity,6,118,5.084745762711865
+2022,web application security,8,118,6.779661016949152
+2022,privacy preserving computation,41,118,34.74576271186441
+2022,information security,10,118,8.47457627118644
+2022,adversarial machine learning,23,118,19.491525423728813
+2022,blockchain and cryptographic security,7,118,5.932203389830509
+2022,cryptographic api misuse detection,4,118,3.389830508474576
+2022,network security,7,118,5.932203389830509
+2022,embedded systems security,7,118,5.932203389830509
+2022,malware analysis and detection,5,118,4.23728813559322
+2023,network security,7,142,4.929577464788732
+2023,web application security,17,142,11.971830985915492
+2023,blockchain and cryptographic security,14,142,9.859154929577464
+2023,privacy preserving computation,39,142,27.464788732394368
+2023,adversarial machine learning,22,142,15.492957746478872
+2023,information security,16,142,11.267605633802818
+2023,machine learning for cybersecurity,8,142,5.633802816901409
+2023,embedded systems security,11,142,7.746478873239436
+2023,cryptographic api misuse detection,3,142,2.112676056338028
+2023,malware analysis and detection,5,142,3.5211267605633805
+2024,cryptographic api misuse detection,1,17,5.88235294117647
+2024,network security,5,17,29.411764705882355
+2024,privacy preserving computation,2,17,11.76470588235294
+2024,adversarial machine learning,3,17,17.647058823529413
+2024,information security,1,17,5.88235294117647
+2024,machine learning for cybersecurity,5,17,29.411764705882355
+2016,privacy preserving computation,22,62,35.483870967741936
+2016,information security,11,62,17.741935483870968
+2016,embedded systems security,6,62,9.67741935483871
+2016,network security,3,62,4.838709677419355
+2016,malware analysis and detection,5,62,8.064516129032258
+2016,web application security,8,62,12.903225806451612
+2016,blockchain and cryptographic security,5,62,8.064516129032258
+2016,cryptographic api misuse detection,2,62,3.225806451612903
+2018,web application security,5,99,5.05050505050505
+2018,network security,10,99,10.1010101010101
+2018,information security,15,99,15.151515151515152
+2018,machine learning for cybersecurity,4,99,4.040404040404041
+2018,privacy preserving computation,32,99,32.323232323232325
+2018,malware analysis and detection,6,99,6.0606060606060606
+2018,cryptographic api misuse detection,9,99,9.090909090909092
+2018,adversarial machine learning,8,99,8.080808080808081
+2018,blockchain and cryptographic security,6,99,6.0606060606060606
+2018,embedded systems security,4,99,4.040404040404041
+2021,network security,8,110,7.2727272727272725
+2021,privacy preserving computation,39,110,35.45454545454545
+2021,adversarial machine learning,17,110,15.454545454545453
+2021,web application security,11,110,10.0
+2021,cryptographic api misuse detection,4,110,3.6363636363636362
+2021,information security,10,110,9.090909090909092
+2021,embedded systems security,4,110,3.6363636363636362
+2021,blockchain and cryptographic security,6,110,5.454545454545454
+2021,malware analysis and detection,8,110,7.2727272727272725
+2021,machine learning for cybersecurity,3,110,2.727272727272727

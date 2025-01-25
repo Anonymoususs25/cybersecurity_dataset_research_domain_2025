@@ -1,0 +1,660 @@
+[
+    {
+        "year":2020,
+        "domain":"network security",
+        "count":12,
+        "yearly_total":91,
+        "percentage":13.1868131868
+    },
+    {
+        "year":2020,
+        "domain":"malware analysis and detection",
+        "count":6,
+        "yearly_total":91,
+        "percentage":6.5934065934
+    },
+    {
+        "year":2020,
+        "domain":"privacy preserving computation",
+        "count":24,
+        "yearly_total":91,
+        "percentage":26.3736263736
+    },
+    {
+        "year":2020,
+        "domain":"blockchain and cryptographic security",
+        "count":6,
+        "yearly_total":91,
+        "percentage":6.5934065934
+    },
+    {
+        "year":2020,
+        "domain":"adversarial machine learning",
+        "count":7,
+        "yearly_total":91,
+        "percentage":7.6923076923
+    },
+    {
+        "year":2020,
+        "domain":"information security",
+        "count":12,
+        "yearly_total":91,
+        "percentage":13.1868131868
+    },
+    {
+        "year":2020,
+        "domain":"embedded systems security",
+        "count":7,
+        "yearly_total":91,
+        "percentage":7.6923076923
+    },
+    {
+        "year":2020,
+        "domain":"web application security",
+        "count":12,
+        "yearly_total":91,
+        "percentage":13.1868131868
+    },
+    {
+        "year":2020,
+        "domain":"machine learning for cybersecurity",
+        "count":2,
+        "yearly_total":91,
+        "percentage":2.1978021978
+    },
+    {
+        "year":2020,
+        "domain":"cryptographic api misuse detection",
+        "count":3,
+        "yearly_total":91,
+        "percentage":3.2967032967
+    },
+    {
+        "year":2019,
+        "domain":"privacy preserving computation",
+        "count":19,
+        "yearly_total":74,
+        "percentage":25.6756756757
+    },
+    {
+        "year":2019,
+        "domain":"adversarial machine learning",
+        "count":13,
+        "yearly_total":74,
+        "percentage":17.5675675676
+    },
+    {
+        "year":2019,
+        "domain":"malware analysis and detection",
+        "count":5,
+        "yearly_total":74,
+        "percentage":6.7567567568
+    },
+    {
+        "year":2019,
+        "domain":"web application security",
+        "count":7,
+        "yearly_total":74,
+        "percentage":9.4594594595
+    },
+    {
+        "year":2019,
+        "domain":"network security",
+        "count":8,
+        "yearly_total":74,
+        "percentage":10.8108108108
+    },
+    {
+        "year":2019,
+        "domain":"machine learning for cybersecurity",
+        "count":3,
+        "yearly_total":74,
+        "percentage":4.0540540541
+    },
+    {
+        "year":2019,
+        "domain":"cryptographic api misuse detection",
+        "count":1,
+        "yearly_total":74,
+        "percentage":1.3513513514
+    },
+    {
+        "year":2019,
+        "domain":"information security",
+        "count":8,
+        "yearly_total":74,
+        "percentage":10.8108108108
+    },
+    {
+        "year":2019,
+        "domain":"embedded systems security",
+        "count":4,
+        "yearly_total":74,
+        "percentage":5.4054054054
+    },
+    {
+        "year":2019,
+        "domain":"blockchain and cryptographic security",
+        "count":6,
+        "yearly_total":74,
+        "percentage":8.1081081081
+    },
+    {
+        "year":2015,
+        "domain":"privacy preserving computation",
+        "count":19,
+        "yearly_total":70,
+        "percentage":27.1428571429
+    },
+    {
+        "year":2015,
+        "domain":"malware analysis and detection",
+        "count":8,
+        "yearly_total":70,
+        "percentage":11.4285714286
+    },
+    {
+        "year":2015,
+        "domain":"information security",
+        "count":15,
+        "yearly_total":70,
+        "percentage":21.4285714286
+    },
+    {
+        "year":2015,
+        "domain":"network security",
+        "count":8,
+        "yearly_total":70,
+        "percentage":11.4285714286
+    },
+    {
+        "year":2015,
+        "domain":"web application security",
+        "count":10,
+        "yearly_total":70,
+        "percentage":14.2857142857
+    },
+    {
+        "year":2015,
+        "domain":"machine learning for cybersecurity",
+        "count":2,
+        "yearly_total":70,
+        "percentage":2.8571428571
+    },
+    {
+        "year":2015,
+        "domain":"cryptographic api misuse detection",
+        "count":2,
+        "yearly_total":70,
+        "percentage":2.8571428571
+    },
+    {
+        "year":2015,
+        "domain":"embedded systems security",
+        "count":2,
+        "yearly_total":70,
+        "percentage":2.8571428571
+    },
+    {
+        "year":2015,
+        "domain":"blockchain and cryptographic security",
+        "count":2,
+        "yearly_total":70,
+        "percentage":2.8571428571
+    },
+    {
+        "year":2015,
+        "domain":"adversarial machine learning",
+        "count":2,
+        "yearly_total":70,
+        "percentage":2.8571428571
+    },
+    {
+        "year":2017,
+        "domain":"privacy preserving computation",
+        "count":21,
+        "yearly_total":74,
+        "percentage":28.3783783784
+    },
+    {
+        "year":2017,
+        "domain":"information security",
+        "count":12,
+        "yearly_total":74,
+        "percentage":16.2162162162
+    },
+    {
+        "year":2017,
+        "domain":"malware analysis and detection",
+        "count":4,
+        "yearly_total":74,
+        "percentage":5.4054054054
+    },
+    {
+        "year":2017,
+        "domain":"embedded systems security",
+        "count":9,
+        "yearly_total":74,
+        "percentage":12.1621621622
+    },
+    {
+        "year":2017,
+        "domain":"cryptographic api misuse detection",
+        "count":8,
+        "yearly_total":74,
+        "percentage":10.8108108108
+    },
+    {
+        "year":2017,
+        "domain":"network security",
+        "count":10,
+        "yearly_total":74,
+        "percentage":13.5135135135
+    },
+    {
+        "year":2017,
+        "domain":"machine learning for cybersecurity",
+        "count":2,
+        "yearly_total":74,
+        "percentage":2.7027027027
+    },
+    {
+        "year":2017,
+        "domain":"adversarial machine learning",
+        "count":5,
+        "yearly_total":74,
+        "percentage":6.7567567568
+    },
+    {
+        "year":2017,
+        "domain":"blockchain and cryptographic security",
+        "count":2,
+        "yearly_total":74,
+        "percentage":2.7027027027
+    },
+    {
+        "year":2017,
+        "domain":"web application security",
+        "count":1,
+        "yearly_total":74,
+        "percentage":1.3513513514
+    },
+    {
+        "year":2022,
+        "domain":"machine learning for cybersecurity",
+        "count":6,
+        "yearly_total":118,
+        "percentage":5.0847457627
+    },
+    {
+        "year":2022,
+        "domain":"web application security",
+        "count":8,
+        "yearly_total":118,
+        "percentage":6.7796610169
+    },
+    {
+        "year":2022,
+        "domain":"privacy preserving computation",
+        "count":41,
+        "yearly_total":118,
+        "percentage":34.7457627119
+    },
+    {
+        "year":2022,
+        "domain":"information security",
+        "count":10,
+        "yearly_total":118,
+        "percentage":8.4745762712
+    },
+    {
+        "year":2022,
+        "domain":"adversarial machine learning",
+        "count":23,
+        "yearly_total":118,
+        "percentage":19.4915254237
+    },
+    {
+        "year":2022,
+        "domain":"blockchain and cryptographic security",
+        "count":7,
+        "yearly_total":118,
+        "percentage":5.9322033898
+    },
+    {
+        "year":2022,
+        "domain":"cryptographic api misuse detection",
+        "count":4,
+        "yearly_total":118,
+        "percentage":3.3898305085
+    },
+    {
+        "year":2022,
+        "domain":"network security",
+        "count":7,
+        "yearly_total":118,
+        "percentage":5.9322033898
+    },
+    {
+        "year":2022,
+        "domain":"embedded systems security",
+        "count":7,
+        "yearly_total":118,
+        "percentage":5.9322033898
+    },
+    {
+        "year":2022,
+        "domain":"malware analysis and detection",
+        "count":5,
+        "yearly_total":118,
+        "percentage":4.2372881356
+    },
+    {
+        "year":2023,
+        "domain":"network security",
+        "count":7,
+        "yearly_total":142,
+        "percentage":4.9295774648
+    },
+    {
+        "year":2023,
+        "domain":"web application security",
+        "count":17,
+        "yearly_total":142,
+        "percentage":11.9718309859
+    },
+    {
+        "year":2023,
+        "domain":"blockchain and cryptographic security",
+        "count":14,
+        "yearly_total":142,
+        "percentage":9.8591549296
+    },
+    {
+        "year":2023,
+        "domain":"privacy preserving computation",
+        "count":39,
+        "yearly_total":142,
+        "percentage":27.4647887324
+    },
+    {
+        "year":2023,
+        "domain":"adversarial machine learning",
+        "count":22,
+        "yearly_total":142,
+        "percentage":15.4929577465
+    },
+    {
+        "year":2023,
+        "domain":"information security",
+        "count":16,
+        "yearly_total":142,
+        "percentage":11.2676056338
+    },
+    {
+        "year":2023,
+        "domain":"machine learning for cybersecurity",
+        "count":8,
+        "yearly_total":142,
+        "percentage":5.6338028169
+    },
+    {
+        "year":2023,
+        "domain":"embedded systems security",
+        "count":11,
+        "yearly_total":142,
+        "percentage":7.7464788732
+    },
+    {
+        "year":2023,
+        "domain":"cryptographic api misuse detection",
+        "count":3,
+        "yearly_total":142,
+        "percentage":2.1126760563
+    },
+    {
+        "year":2023,
+        "domain":"malware analysis and detection",
+        "count":5,
+        "yearly_total":142,
+        "percentage":3.5211267606
+    },
+    {
+        "year":2024,
+        "domain":"cryptographic api misuse detection",
+        "count":1,
+        "yearly_total":17,
+        "percentage":5.8823529412
+    },
+    {
+        "year":2024,
+        "domain":"network security",
+        "count":5,
+        "yearly_total":17,
+        "percentage":29.4117647059
+    },
+    {
+        "year":2024,
+        "domain":"privacy preserving computation",
+        "count":2,
+        "yearly_total":17,
+        "percentage":11.7647058824
+    },
+    {
+        "year":2024,
+        "domain":"adversarial machine learning",
+        "count":3,
+        "yearly_total":17,
+        "percentage":17.6470588235
+    },
+    {
+        "year":2024,
+        "domain":"information security",
+        "count":1,
+        "yearly_total":17,
+        "percentage":5.8823529412
+    },
+    {
+        "year":2024,
+        "domain":"machine learning for cybersecurity",
+        "count":5,
+        "yearly_total":17,
+        "percentage":29.4117647059
+    },
+    {
+        "year":2016,
+        "domain":"privacy preserving computation",
+        "count":22,
+        "yearly_total":62,
+        "percentage":35.4838709677
+    },
+    {
+        "year":2016,
+        "domain":"information security",
+        "count":11,
+        "yearly_total":62,
+        "percentage":17.7419354839
+    },
+    {
+        "year":2016,
+        "domain":"embedded systems security",
+        "count":6,
+        "yearly_total":62,
+        "percentage":9.6774193548
+    },
+    {
+        "year":2016,
+        "domain":"network security",
+        "count":3,
+        "yearly_total":62,
+        "percentage":4.8387096774
+    },
+    {
+        "year":2016,
+        "domain":"malware analysis and detection",
+        "count":5,
+        "yearly_total":62,
+        "percentage":8.064516129
+    },
+    {
+        "year":2016,
+        "domain":"web application security",
+        "count":8,
+        "yearly_total":62,
+        "percentage":12.9032258065
+    },
+    {
+        "year":2016,
+        "domain":"blockchain and cryptographic security",
+        "count":5,
+        "yearly_total":62,
+        "percentage":8.064516129
+    },
+    {
+        "year":2016,
+        "domain":"cryptographic api misuse detection",
+        "count":2,
+        "yearly_total":62,
+        "percentage":3.2258064516
+    },
+    {
+        "year":2018,
+        "domain":"web application security",
+        "count":5,
+        "yearly_total":99,
+        "percentage":5.0505050505
+    },
+    {
+        "year":2018,
+        "domain":"network security",
+        "count":10,
+        "yearly_total":99,
+        "percentage":10.101010101
+    },
+    {
+        "year":2018,
+        "domain":"information security",
+        "count":15,
+        "yearly_total":99,
+        "percentage":15.1515151515
+    },
+    {
+        "year":2018,
+        "domain":"machine learning for cybersecurity",
+        "count":4,
+        "yearly_total":99,
+        "percentage":4.0404040404
+    },
+    {
+        "year":2018,
+        "domain":"privacy preserving computation",
+        "count":32,
+        "yearly_total":99,
+        "percentage":32.3232323232
+    },
+    {
+        "year":2018,
+        "domain":"malware analysis and detection",
+        "count":6,
+        "yearly_total":99,
+        "percentage":6.0606060606
+    },
+    {
+        "year":2018,
+        "domain":"cryptographic api misuse detection",
+        "count":9,
+        "yearly_total":99,
+        "percentage":9.0909090909
+    },
+    {
+        "year":2018,
+        "domain":"adversarial machine learning",
+        "count":8,
+        "yearly_total":99,
+        "percentage":8.0808080808
+    },
+    {
+        "year":2018,
+        "domain":"blockchain and cryptographic security",
+        "count":6,
+        "yearly_total":99,
+        "percentage":6.0606060606
+    },
+    {
+        "year":2018,
+        "domain":"embedded systems security",
+        "count":4,
+        "yearly_total":99,
+        "percentage":4.0404040404
+    },
+    {
+        "year":2021,
+        "domain":"network security",
+        "count":8,
+        "yearly_total":110,
+        "percentage":7.2727272727
+    },
+    {
+        "year":2021,
+        "domain":"privacy preserving computation",
+        "count":39,
+        "yearly_total":110,
+        "percentage":35.4545454545
+    },
+    {
+        "year":2021,
+        "domain":"adversarial machine learning",
+        "count":17,
+        "yearly_total":110,
+        "percentage":15.4545454545
+    },
+    {
+        "year":2021,
+        "domain":"web application security",
+        "count":11,
+        "yearly_total":110,
+        "percentage":10.0
+    },
+    {
+        "year":2021,
+        "domain":"cryptographic api misuse detection",
+        "count":4,
+        "yearly_total":110,
+        "percentage":3.6363636364
+    },
+    {
+        "year":2021,
+        "domain":"information security",
+        "count":10,
+        "yearly_total":110,
+        "percentage":9.0909090909
+    },
+    {
+        "year":2021,
+        "domain":"embedded systems security",
+        "count":4,
+        "yearly_total":110,
+        "percentage":3.6363636364
+    },
+    {
+        "year":2021,
+        "domain":"blockchain and cryptographic security",
+        "count":6,
+        "yearly_total":110,
+        "percentage":5.4545454545
+    },
+    {
+        "year":2021,
+        "domain":"malware analysis and detection",
+        "count":8,
+        "yearly_total":110,
+        "percentage":7.2727272727
+    },
+    {
+        "year":2021,
+        "domain":"machine learning for cybersecurity",
+        "count":3,
+        "yearly_total":110,
+        "percentage":2.7272727273
+    }
+]
