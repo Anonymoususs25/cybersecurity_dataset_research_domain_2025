@@ -37,8 +37,8 @@ The repository includes:
 
 ### **1. Clone the Repository**
 
-bash
-!git clone https://github.com/Anonymoususs25/cybersecurity-dataset-analysis.git
+pip install pandas matplotlib seaborn json csv
+
 
 
 ### **2. Install Dependencies**
