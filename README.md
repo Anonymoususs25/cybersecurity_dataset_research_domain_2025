@@ -51,8 +51,8 @@ pip install pandas matplotlib seaborn json csv
 jupyter notebook all_codes_in_one_uss.ipynb
 
 ### **4. Run the Python Script**
-python
-!python all_codes_in_one_first_script.PY
+python all_codes_in_one_first_script.py
+
 
 
 ## Requirements
