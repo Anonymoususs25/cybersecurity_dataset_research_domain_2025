@@ -1,60 +1,37 @@
-Cybersecurity Dataset and Research Domain Analysis Repository
+# Cybersecurity Dataset and Research Domain Analysis Repository
 
-Overview
-
+## Overview
 This repository focuses on analyzing cybersecurity dataset and research domain trends extracted from top-tier conferences. The analysis includes dataset categorization, availability, and research trends over time.
 
-Repository Structure
+## Repository Structure
 
-1. Codes and Script Files
+### **1. Codes and Script Files**
+- `all_codes_in_one_first_script.PY` – Python script containing consolidated functions for dataset extraction and processing. This was our very first script, where we started with Zero-Shot Techniques.
+- `all_codes_in_one_uss.ipynb` – Jupyter Notebook version of the main script for easier debugging and visualization.
+- `prompts_final.txt` – Contains structured prompts used for LLM-based dataset extraction.
 
-all_codes_in_one_first_script.PY – Python script containing consolidated functions for dataset extraction and processing. This was our very first script, where we started with the Zero Shot Technique.
+### **2. Datasets and Results**
+- `datasets_summary.csv` – Summary of datasets analyzed.
+- `research_domain_trends.csv / .json` – Trends in cybersecurity research domains across years.
+- `results_final_2.0.csv / .json / .jsonl` – Final processed results extracted from research papers.
+- `subcategory_domain_correlation.csv` – Correlation between dataset subcategories and research domains.
+- `subcategory_trends_over_time.csv` – Trends in dataset subcategories over time.
+- `top_10_subcategories_per_year.csv / .png` – Top dataset subcategories used each year (CSV + visual).
+- `unique_datasets_2.0.csv / .json` – List of unique datasets extracted from cybersecurity papers.
+- `cybersecurity_research_dataset.csv / .jsonl` – Complete dataset containing **1,194 research papers**, including **titles, conference names, years, and research domains**.
 
-all_codes_in_one_uss.ipynb – Jupyter Notebook version of the main script for easier debugging and visualization.
+## Features
+- Extracts cybersecurity dataset usage from **top-tier conferences**.
+- Analyzes dataset trends from **2015-2023**.
+- Identifies **dataset subcategories, availability, and gaps**.
+- Generates **visual trends and correlation insights**.
 
-prompts_final.txt – Contains structured prompts used for LLM-based dataset extraction.
-
-2. Datasets and Results
-
-datasets_summary.csv – Summary of datasets analyzed.
-
-research_domain_trends.csv / .json – Trends in cybersecurity research domains across years.
-
-results_final_2.0.csv / .json / .jsonl – Final processed results extracted from research papers.
-
-subcategory_domain_correlation.csv – Correlation between dataset subcategories and research domains.
-
-subcategory_trends_over_time.csv – Trends in dataset subcategories over time.
-
-top_10_subcategories_per_year.csv / .png – Top dataset subcategories used each year (CSV + visual).
-
-unique_datasets_2.0.csv / .json – List of unique datasets extracted from cybersecurity papers.
-
-cybersecurity_research_dataset.csv / .jsonl – Comprehensive dataset of 1194 research papers, including title, conference name, year, and domain.
-
-Features
-
-Extracts cybersecurity dataset usage from top-tier conferences.
-
-Analyzes dataset trends from 2015-2023.
-
-Identifies dataset subcategories, availability, and gaps.
-
-Generates visual trends and correlation insights.
-
-Includes research dataset with over 1194 papers categorized by domain and conference.
-
-Data Insights & Trends
-
+## Data Insights & Trends
 The repository includes:
-
-Trend analysis of cybersecurity dataset usage.
-
-Research domain categorization (NIDS, MAD, PPC, AML, etc.).
-
-Public dataset identification for reproducibility.
-
-Benchmarking and standardization issues in dataset studies.
+- **Trend analysis** of cybersecurity dataset usage.
+- **Research domain categorization** (e.g., NIDS, MAD, PPC, AML).
+- **Public dataset identification** for reproducibility.
+- **Benchmarking and standardization** issues in dataset studies.
 
 Installation & Usage
 
