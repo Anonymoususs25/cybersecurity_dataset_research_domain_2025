@@ -1,0 +1,121 @@
+Research Domain,Subcategory,Count
+adversarial machine learning,applications,16
+adversarial machine learning,attacks,13
+adversarial machine learning,audio_visual_datasets,11
+adversarial machine learning,cybercrime_infrastructures,3
+adversarial machine learning,exploits,7
+adversarial machine learning,image_datasets,192
+adversarial machine learning,network_traces,6
+adversarial machine learning,user_activities,57
+adversarial machine learning,user_attitudes,1
+adversarial machine learning,user_attributes,31
+adversarial machine learning,video_datasets,8
+adversarial machine learning,vulnerabilities,1
+blockchain and cryptographic security,alerts,1
+blockchain and cryptographic security,applications,8
+blockchain and cryptographic security,attacks,1
+blockchain and cryptographic security,audio_visual_datasets,1
+blockchain and cryptographic security,benchmarks,1
+blockchain and cryptographic security,configurations,1
+blockchain and cryptographic security,cybercrime_infrastructures,10
+blockchain and cryptographic security,exploits,9
+blockchain and cryptographic security,image_datasets,6
+blockchain and cryptographic security,network_traces,9
+blockchain and cryptographic security,topology,1
+blockchain and cryptographic security,user_activities,5
+blockchain and cryptographic security,user_attributes,2
+blockchain and cryptographic security,vulnerabilities,1
+cryptographic api misuse detection,alerts,3
+cryptographic api misuse detection,configurations,16
+cryptographic api misuse detection,exploits,16
+cryptographic api misuse detection,image_datasets,1
+cryptographic api misuse detection,network_traces,9
+cryptographic api misuse detection,user_activities,18
+cryptographic api misuse detection,user_attributes,2
+cryptographic api misuse detection,vulnerabilities,2
+information security,alerts,6
+information security,applications,4
+information security,attacks,12
+information security,audio_visual_datasets,1
+information security,benchmarks,2
+information security,configurations,3
+information security,cybercrime_infrastructures,7
+information security,exploits,8
+information security,image_datasets,6
+information security,network_traces,3
+information security,user_activities,16
+information security,user_attributes,3
+information security,vulnerabilities,21
+machine learning for cybersecurity,alerts,12
+machine learning for cybersecurity,applications,11
+machine learning for cybersecurity,attacks,18
+machine learning for cybersecurity,benchmarks,1
+machine learning for cybersecurity,configurations,3
+machine learning for cybersecurity,cybercrime_infrastructures,7
+machine learning for cybersecurity,exploits,2
+machine learning for cybersecurity,image_datasets,24
+machine learning for cybersecurity,network_traces,6
+machine learning for cybersecurity,topology,1
+machine learning for cybersecurity,user_activities,40
+machine learning for cybersecurity,user_attributes,1
+machine learning for cybersecurity,vulnerabilities,2
+malware analysis and detection,alerts,8
+malware analysis and detection,applications,3
+malware analysis and detection,attacks,33
+malware analysis and detection,benchmarks,2
+malware analysis and detection,cybercrime_infrastructures,21
+malware analysis and detection,exploits,36
+malware analysis and detection,network_traces,12
+malware analysis and detection,topology,1
+malware analysis and detection,user_activities,5
+malware analysis and detection,user_attributes,2
+malware analysis and detection,vulnerabilities,23
+network intrusion detection systems,alerts,15
+network intrusion detection systems,attacks,26
+network intrusion detection systems,audio_visual_datasets,1
+network intrusion detection systems,benchmarks,2
+network intrusion detection systems,exploits,1
+network intrusion detection systems,image_datasets,2
+network intrusion detection systems,network_traces,7
+network intrusion detection systems,user_activities,3
+network intrusion detection systems,vulnerabilities,1
+network security,adverse_events,1
+network security,alerts,7
+network security,applications,23
+network security,attacks,30
+network security,configurations,5
+network security,cybercrime_infrastructures,30
+network security,exploits,1
+network security,network_traces,36
+network security,topology,4
+network security,user_activities,7
+network security,user_attributes,5
+network security,vulnerabilities,5
+privacy_computing,adverse_events,2
+privacy_computing,alerts,7
+privacy_computing,applications,34
+privacy_computing,attacks,5
+privacy_computing,audio_visual_datasets,5
+privacy_computing,benchmarks,8
+privacy_computing,configurations,1
+privacy_computing,cybercrime_infrastructures,3
+privacy_computing,exploits,2
+privacy_computing,image_datasets,95
+privacy_computing,network_traces,13
+privacy_computing,topology,2
+privacy_computing,user_activities,171
+privacy_computing,user_attitudes,3
+privacy_computing,user_attributes,59
+privacy_computing,video_datasets,3
+web application security,alerts,8
+web application security,applications,25
+web application security,attacks,21
+web application security,configurations,2
+web application security,cybercrime_infrastructures,12
+web application security,exploits,12
+web application security,image_datasets,1
+web application security,network_traces,4
+web application security,topology,1
+web application security,user_activities,45
+web application security,user_attributes,5
+web application security,vulnerabilities,30
