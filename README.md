@@ -13,17 +13,18 @@ This repository focuses on analyzing cybersecurity dataset and research domain t
 ### **2. Datasets and Results**
 - datasets_summary.csv – Summary of datasets analyzed.
 - research_domain_trends.csv / .json – Trends in cybersecurity research domains across years.
-- results_final_2.0.csv / .json / .jsonl – Final processed results extracted from research papers.
+- results_final_2.0.csv / .jsonl – Final processed results extracted from research papers.
 - subcategory_domain_correlation.csv – Correlation between dataset subcategories and research domains.
 - subcategory_trends_over_time.csv – Trends in dataset subcategories over time.
 - top_10_subcategories_per_year.csv / .png – Top dataset subcategories used each year (CSV + visual).
 - unique_datasets_2.0.csv / .json – List of unique datasets extracted from cybersecurity papers.
+- `cybersecurity_research_dataset.csv / .jsonl` – Complete dataset containing **1,194 research papers**, including **titles, conference names, years, and research domains**.
 
 ##  Features
 - Extracts cybersecurity dataset usage from **top-tier conferences**.
 - Analyzes dataset trends from **2015-2023**.
 - Identifies **dataset subcategories, availability, and gaps**.
-- Generates **visual trends and correlation insights**.
+- Generates **visual trends, datasets and research domain insights**.
 
 ##  Data Insights & Trends
 The repository includes:
