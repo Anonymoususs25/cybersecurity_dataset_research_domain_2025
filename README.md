@@ -7,7 +7,7 @@ This repository focuses on analyzing cybersecurity dataset trends extracted from
 ##  Repository Structure
 
 ### **1. Code Files**
-- `all_codes_in_one_first_script.PY` – Python script containing consolidated functions for dataset extraction and processing.
+- `all_codes_in_one_first_script.PY` – Python script containing consolidated functions for dataset extraction and processing. This is are very first script, we started with Zero Shot Technique here.
 - `all_codes_in_one_uss.ipynb` – Jupyter Notebook version of the main script for easier debugging and visualization.
 
 ### **2. Datasets and Results**
