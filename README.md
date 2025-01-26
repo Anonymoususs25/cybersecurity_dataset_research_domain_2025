@@ -33,25 +33,22 @@ The repository includes:
 - **Public dataset identification** for reproducibility.
 - **Benchmarking and standardization** issues in dataset studies.
 
-##  Installation & Usage
+## Installation & Usage
 
-### **1. Clone the Repository**
-
-pip install pandas matplotlib seaborn json csv
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Anonymoususs25/cybersecurity-dataset-analysis.git
+cd cybersecurity-dataset-analysis
 
 
 
 ### **2. Install Dependencies**
 
-python
-!pip install pandas matplotlib seaborn json csv
+pip install pandas matplotlib seaborn json csv
 
 
 ### **3. Run the Jupyter Notebook**
-python
-import notebook
-!jupyter notebook all_codes_in_one_uss.ipynb
-
+jupyter notebook all_codes_in_one_uss.ipynb
 
 ### **4. Run the Python Script**
 python
