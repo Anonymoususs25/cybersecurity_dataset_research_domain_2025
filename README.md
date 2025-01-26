@@ -47,10 +47,10 @@ cd cybersecurity-dataset-analysis
 pip install pandas matplotlib seaborn json csv
 
 
-### **3. Run the Jupyter Notebook**
+## **3. Run the Jupyter Notebook**
 jupyter notebook all_codes_in_one_uss.ipynb
 
-### **4. Run the Python Script**
+## **4. Run the Python Script**
 python all_codes_in_one_first_script.py
 
 
