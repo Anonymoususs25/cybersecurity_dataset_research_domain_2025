@@ -60,16 +60,16 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
  **GitHub Repository:** [Cybersecurity Dataset Analysis](https://github.com/Anonymoususs25/cybersecurity_dataset_research_domain_2025)
 
 
- ## Installation & Usage
+## Installation & Usage
+ 
+### **1. Install Dependencies**
 
-### 1. Clone the Repository
+pip install pandas matplotlib seaborn json csv
+
+### 2. Clone the Repository
 ```bash
 git clone https://github.com/Anonymoususs25/cybersecurity-dataset-analysis.git
 cd cybersecurity-dataset-analysis
 
 
-
-### **2. Install Dependencies**
-
-pip install pandas matplotlib seaborn json csv
 
