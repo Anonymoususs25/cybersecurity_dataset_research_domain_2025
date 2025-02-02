@@ -3328,8 +3328,7 @@ title,authors_name,conference_name,published_year,school_institution,domain,data
 ```","```json
 {
     ""dataset_utilization"": {
-        ""ClickScanner Dataset"": ""Full"",
-        ""Seed Apps Dataset"": ""Full""
+        ""Custom Dataset""
     }
 }
 ```"
