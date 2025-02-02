@@ -41,11 +41,6 @@ The repository includes:
 ## **2. Run the Jupyter Notebook**
 jupyter notebook all_codes_in_one_uss.ipynb
 
-## **3. Run the Python Script**
-python all_codes_in_one_first_script.py
-
-
-
 ## Requirements
 - **Python 3.8+**
 - **Jupyter Notebook (if running .ipynb)**
