@@ -9,6 +9,7 @@ This repository focuses on analyzing cybersecurity dataset and research domain t
 - all_codes_in_one_first_script.PY – Python script containing consolidated functions for dataset extraction and processing. This is are very first script, we started with Zero Shot Technique here.
 - all_codes_in_one_uss.ipynb – Jupyter Notebook version of the main script for easier debugging and visualization.
 - prompts_final.txt – Contains structured prompts used for LLM-based dataset extraction.
+- dataset_llm-test.ipynb -Jupyter Notebook version of the test script for 101 papers
 
 ### **2. Datasets and Results**
 - datasets_summary.csv – Summary of datasets analyzed.
@@ -18,6 +19,8 @@ This repository focuses on analyzing cybersecurity dataset and research domain t
 - subcategory_trends_over_time.csv – Trends in dataset subcategories over time.
 - top_10_subcategories_per_year.csv / .png – Top dataset subcategories used each year (CSV + visual).
 - unique_datasets_2.0.csv / .json – List of unique datasets extracted from cybersecurity papers.
+- manual_verification_101.csv - File for manual verified first 101 papers.
+- result_test.csv - File generated as a test for first 101 paper (Validating our model/script)
 - `cybersecurity_research_dataset.csv / .jsonl` – Complete dataset containing **1,194 research papers**, including **titles, conference names, years, and research domains**.
 
 ##  Features
